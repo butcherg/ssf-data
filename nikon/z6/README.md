@@ -1,3 +1,4 @@
+<pre>
 Camera: Nikon Z 6
 CameraLens: NIKKOR Z 24-70mm f/4 S
 Contributor: Glenn Butcher, glenn.butcher@gmail.com
@@ -5,7 +6,7 @@ DatasetRangeIntervalNM: 400,715,5
 MeasurementDate: 2020-08-27
 MeasurementMethod: Transmissive glass-substrate ruled diffraction grating spectroscope, single-image
 DataReductionSoftware: ssftool
-
+</pre>
 
 deltaE report, comparison to CC24 spectra:
 <pre>
