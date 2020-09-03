@@ -8,10 +8,9 @@ MeasurementMethod: Transmissive plastic-substrate holographic diffraction gratin
 DataReductionSoftware: ssftool
 </pre>
 
-Of note with this dataset is that the max dE from a profile 
-produced with the camspec dataset for the D50 was 2.17.
+Of note with this dataset is that the max dE from a profile produced with the camspec dataset for the D50 was 2.17.
 
-deltaE report, comparison to CC24 spectra:
+deltaE report, comparison of profile-generated patches to CC24 reference patches:
 <pre>
   D02 DE 0.00 DE LCh +0.00 +0.00 +0.00 (gray 80%)
   D06 DE 0.02 DE LCh +0.00 +0.00 -0.02 (gray 20%)

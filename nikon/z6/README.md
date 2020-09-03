@@ -8,7 +8,7 @@ MeasurementMethod: Transmissive glass-substrate ruled diffraction grating spectr
 DataReductionSoftware: ssftool
 </pre>
 
-deltaE report, comparison to CC24 spectra:
+deltaE report, comparison of profile-generated patches to CC24 reference patches:
 <pre>
   D02 DE 0.00 DE LCh +0.00 +0.00 +0.00 (gray 80%)
   D06 DE 0.13 DE LCh +0.01 -0.12 +0.04 (gray 20%)

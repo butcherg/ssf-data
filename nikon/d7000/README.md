@@ -8,17 +8,9 @@ MeasurementMethod: Transmissive glass-substrate ruled diffraction grating spectr
 DataReductionSoftware: ssftool
 </pre>
 
-This dataset is the first one produced from my spectroscope 
-experiment.  Actually, I ran a little more than a dozen 
-collections, comparing results from different lens focal lengths
-and alignment attempts, and selected the attempt that produced 
-the best deltaE. This collection is significant in that I used 
-this camera as the performance standard for constructing the 
-spectrometer, as I had monochromator SSF data with which to compare, 
-courtesy the ACES rawtoaces project: 
-https://github.com/ampas/rawtoaces
+This dataset is the first one produced from my spectroscope experiment.  Actually, I ran a little more than a dozen collections, comparing results from different lens focal lengths and alignment attempts, and selected the attempt that produced the best deltaE. This collection is significant in that I used this camera as the performance standard for constructing the spectrometer, as I had monochromator SSF data with which to compare, courtesy the ACES rawtoaces project: https://github.com/ampas/rawtoaces
 
-deltaE report, comparison to CC24 spectra:
+deltaE report, comparison of profile-generated patches to CC24 reference patches:
 <pre>
   D02 DE 0.00 DE LCh +0.00 +0.00 +0.00 (gray 80%)
   D03 DE 0.12 DE LCh -0.01 -0.11 -0.03 (gray 70%)
