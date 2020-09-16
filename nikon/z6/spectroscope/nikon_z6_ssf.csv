@@ -1,3 +1,7 @@
+#Camera:Nikon Z 6
+#Description:Single-spectrum measurement
+#Copyright:2020 Glenn Butcher, all rights reserved
+#License:Creative Commons BY-NC-SA 4.0, https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
 400,0.02,0.02,0.01
 405,0.02,0.02,0.02
 410,0.02,0.02,0.02

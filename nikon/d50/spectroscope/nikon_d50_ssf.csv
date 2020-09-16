@@ -1,3 +1,7 @@
+#Camera:Nikon D50
+#Description:Single-spectrum measurement
+#Copyright:2020 Glenn Butcher, all rights reserved
+#License:Creative Commons BY-NC-SA 4.0, https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
 400,0.02,0.02,0.09
 405,0.02,0.03,0.16
 410,0.02,0.03,0.24
