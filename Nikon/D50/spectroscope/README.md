@@ -6,6 +6,8 @@ DatasetRangeIntervalNM: 400,715,5
 MeasurementDate: 2020-08-29
 MeasurementMethod: Transmissive plastic-substrate holographic diffraction grating spectroscope, single-image
 DataReductionSoftware: ssftool
+Copyright:2020 Glenn Butcher, all rights reserved
+License:Creative Commons BY-NC-SA 4.0, https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
 </pre>
 
 Of note with this dataset is that the max dE from a profile produced with the camspec dataset for the D50 was 2.17.
