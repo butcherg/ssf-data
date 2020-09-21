@@ -10,9 +10,12 @@ Copyright:2020 Glenn Butcher, all rights reserved
 License:Creative Commons BY-NC-SA 4.0, https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
 </pre>
 
-Of note with this dataset is that the max dE from a profile produced with the camspec dataset for the D50 was 2.17.
+- .csv file contains comma-separated data, column-major.<br>
+- .json file contains data formatted for ingestion by dcamprof.<br>
+- .icc file contains a A0toB0 LUT to apply a linear, perceptual intent transform.<br>
 
 deltaE report, comparison of profile-generated patches to CC24 reference patches:
+
 <pre>
   D02 DE 0.00 DE LCh +0.00 +0.00 +0.00 (gray 80%)
   D06 DE 0.02 DE LCh +0.00 +0.00 -0.02 (gray 20%)
@@ -39,6 +42,7 @@ deltaE report, comparison of profile-generated patches to CC24 reference patches
   B01 DE 1.65 DE LCh -0.09 -0.14 -1.64 (strong orange)
   C06 DE 1.80 DE LCh +1.13 -0.26 +1.37 (blue)
 </pre>
+
 (Data reported during the construction of an ICC LUT matrix with dcamprof)
 
 

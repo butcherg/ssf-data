@@ -10,6 +10,10 @@ Copyright:2020 Glenn Butcher, all rights reserved
 License:Creative Commons BY-NC-SA 4.0, https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
 </pre>
 
+- .csv file contains comma-separated data, column-major.<br>
+- .json file contains data formatted for ingestion by dcamprof.<br>
+- .icc file contains a A0toB0 LUT to apply a linear, perceptual intent transform.<br>
+
 This dataset is the first one produced from my spectroscope experiment.  Actually, I ran a little more than a dozen collections, comparing results from different lens focal lengths and alignment attempts, and selected the attempt that produced the best deltaE. This collection is significant in that I used this camera as the performance standard for constructing the spectrometer, as I had monochromator SSF data with which to compare, courtesy the ACES rawtoaces project: https://github.com/ampas/rawtoaces
 
 deltaE report, comparison of profile-generated patches to CC24 reference patches:

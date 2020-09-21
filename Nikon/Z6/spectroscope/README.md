@@ -10,6 +10,10 @@ Copyright:2020 Glenn Butcher, all rights reserved
 License:Creative Commons BY-NC-SA 4.0, https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
 </pre>
 
+- .csv file contains comma-separated data, column-major.<br>
+- .json file contains data formatted for ingestion by dcamprof.<br>
+- .icc file contains a A0toB0 LUT to apply a linear, perceptual intent transform.<br>
+
 deltaE report, comparison of profile-generated patches to CC24 reference patches:
 <pre>
   D02 DE 0.00 DE LCh +0.00 +0.00 +0.00 (gray 80%)
@@ -37,6 +41,7 @@ deltaE report, comparison of profile-generated patches to CC24 reference patches
   B05 DE 2.57 DE LCh -0.81 -2.22 +1.01 (light strong yellow-green)
   C04 DE 2.94 DE LCh -0.54 -2.90 -0.05 (light vivid yellow)
 </pre>
+
 (Data reported during the construction of the LUT ICC with dcamprof)
 
 
