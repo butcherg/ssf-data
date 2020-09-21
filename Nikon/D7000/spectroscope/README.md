@@ -1,6 +1,6 @@
 <pre>
 Camera: Nikon D7000
-CameraLens: AF-S DX Nikkor 18-140mm f/3.5-5.6G ED VR
+Lens: AF-S DX Nikkor 18-140mm f/3.5-5.6G ED VR
 Contributor: Glenn Butcher, glenn.butcher@gmail.com
 DatasetRangeIntervalNM: 400,715,5
 MeasurementDate: 2020-08-26

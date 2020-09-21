@@ -1,6 +1,6 @@
 <pre>
 Camera: Nikon Z 6
-CameraLens: NIKKOR Z 24-70mm f/4 S
+Lens: NIKKOR Z 24-70mm f/4 S
 Contributor: Glenn Butcher, glenn.butcher@gmail.com
 DatasetRangeIntervalNM: 400,715,5
 MeasurementDate: 2020-08-27

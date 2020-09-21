@@ -1,6 +1,6 @@
 <pre>
 Camera: Nikon D50
-CameraLens: AF-S DX VR Zoom-Nikkor 18-200mm f/3.5-5.6G IF-ED [II]
+Lens: AF-S DX VR Zoom-Nikkor 18-200mm f/3.5-5.6G IF-ED [II]
 Contributor: Glenn Butcher, glenn.butcher@gmail.com
 DatasetRangeIntervalNM: 400,715,5
 MeasurementDate: 2020-08-29
