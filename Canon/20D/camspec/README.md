@@ -37,7 +37,7 @@ deltaE report, comparison of profile-generated patches to CC24 reference patches
   C02 DE 1.93 DE LCh +0.79 -1.60 +0.73 (yellow-green)
   C03 DE 2.23 DE LCh +1.51 +0.05 -1.64 (strong red)
   C04 DE 2.43 DE LCh +0.11 -2.38 -0.49 (light vivid yellow)
-  </pre>
+</pre>
 
 (Data reported during the construction of the LUT ICC with dcamprof)
 
