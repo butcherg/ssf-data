@@ -1,7 +1,7 @@
 <pre>
 Camera: Nikon D3500
 Lens: AF-P DX NIKKOR 18-55mm f/3.5-5.6G VR
-Contributor: Logan Hoyle <loganhoyle8@hotmail.com>
+Contributor: Logan Hoyle
 DatasetRangeIntervalNM: 400,715,5
 MeasurementDate: 2020-09-29
 MeasurementMethod: Transmissive glass-substrate ruled diffraction grating spectroscope, single-image
